@@ -1,0 +1,53 @@
+.grad{
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red,green,yellow);
+    border-radius: 50%;
+}
+.grad1{
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red,green,yellow,blue);  
+    border-radius: 50%;
+}
+.grad2{
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red 45deg 90deg,green,yellow 120deg,blue 180deg); 
+    border-radius: 50%; 
+}
+.grad3{
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red,green,yellow,blue);  
+    border-radius: 50%;
+}
+.grad4{
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red 0deg 90deg,green 90deg 180deg,yellow 180deg 270deg,blue 270deg 360deg,maroon 360deg 0deg);  
+    border-radius: 50%;
+}
+.grad5{
+    height: 200px;
+    width: 200px;
+    background-image: conic-gradient(red 0deg,green 90deg,yellow 180deg,blue 270deg,maroon 360deg);  
+    border-radius: 50%;
+    
+}
+.grad6{
+    height: 200px;
+    width: 200px;
+    background-image:repeating-conic-gradient(red 0deg 8deg,green 8deg 16deg,blue 16deg 24deg,yellow 24deg 32deg);
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
